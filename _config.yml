@@ -16,7 +16,7 @@
 title: Zsuark
 email: krauszraphael@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My musings and experiments in Software Development and Maths.
+  My musings and experiments in Software Development, Computer Science and Mathematics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zsuark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RaphaelKrausz
