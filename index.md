@@ -8,6 +8,6 @@ layout: default
 
 Thanks for dropping by. I'm Raphael - an I.T. professional with over 20 years of experience in a variety of sectors.
 
-I like to think about the process of software engineering, the study of computer science and mathematics underlying it all, and how we react with the industry.
+I like to think about the process of software engineering, the study of computer science and mathematics underlying it all, and how we intereact with the industry.
 
 Currently I'm developing in Functional languages such as Clojure, Scala and Elm. I am enjoying the experience of working in new languages - and I appreciate their modern views of old approaches.
