@@ -27,7 +27,7 @@ Take, for example terms such as:
 
  * _Agile_ &mdash; a [philosophy](http://agilemanifesto.org/) and __not__ a methodology, as you may have been led to believe.
  * _Cloud computing_ &mdash; what does it really mean? (hint: new marketing term for distributed computing)
- * _Imperative_, _Declarative_, and _Functional programming_ are frequently confused and the term _Dynamic programming_ seems to have been forgotten in these conversationes.
+ * _Imperative_, _Declarative_, and _Functional programming_ are frequently confused and the term _Dynamic programming_ seems to have been forgotten in these conversations.
 
  ... and I could go on, the truth of the matter is that many of these newer hot terms and topics, are actually old computer science and maths concepts being rediscovered or rebranded (primarily the latter). So this is a space for me to discuss these things, and hopefully others will join in the conversation with me. (Note to self: install comment system!)
 
