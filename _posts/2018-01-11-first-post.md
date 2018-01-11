@@ -13,27 +13,27 @@ Hey &mdash; thanks for checking out my blog. My name is Raphael and I write soft
 
 # Why am I blogging?
 
-First and foremost, I am writing this blog for myself. I find that when I'm working I find myself focussed on the present moment, and I forget a lot of what I have done in the past. I really have to think about what I have achieved, and often may forget details. When you do a good job on a piece of software, you don't hear back regarding it unless the requirements change (and they don't always change that much). It is easy to lose track.
+First and foremost, I am writing this blog for myself. When I'm working I find myself focussed on the present moment, and I forget a lot of what I have done in the past. I really have to think about what I have achieved, and often may forget details. When you do a good job on a piece of software, you don't hear back regarding it unless the requirements change (and they don't always change that much). It is easy to lose track.
 
-A lot of my past work stays with the workplace I created it in. I want to build a little online demonstration of what I do and how I work. For both myself and others.
+A lot of my past work has remained with the workplace I created it in. I want to build a little online demonstration of what I do and how I work &mdash; For both myself and others.
 
 So, I thought that it'd be a good idea to create this blog to track what I am currently doing, as well as sharing my ideas, views and (hopefully) foster discussions with other IT professionals.
 
 Hopefully from now, when someone makes an enquiry into my career, I'll be able to give a clear response, and point them here &mdash; and overcome my jitters. Yes, even us "seasoned" professionals still get nervous applying for work &mdash; if you don't you are either very lucky or just don't really fully grasp the situation! :stuck_out_tongue_winking_eye:
 
-I would like an outlet for my views and observations of the industry. I notice a lot of buzzwords and jargon being thrown around at the moment, especially as distributed computing is further becoming the norm and the industry is now moving away from [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) with the pace of processor development slowing. 
+I would like an outlet for my views and observations of the industry. I notice a lot of buzzwords and jargon being thrown around at the moment, especially as distributed computing is further becoming the norm and the industry is now moving away from [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) with the pace of processor development slowing.
 
 Take, for example terms such as:
 
  * _Agile_ &mdash; a [philosophy](http://agilemanifesto.org/) and __not__ a methodology, as you may have been led to believe.
- * _Cloud computing_ &mdash; what does it really mean? (hint: new marketing term for distributed computing) 
+ * _Cloud computing_ &mdash; what does it really mean? (hint: new marketing term for distributed computing)
  * _Imperative_, _Declarative_, and _Functional programming_ are frequently confused and the term _Dynamic programming_ seems to have been forgotten in these conversationes.
 
  ... and I could go on, the truth of the matter is that many of these newer hot terms and topics, are actually old computer science and maths concepts being rediscovered or rebranded (primarily the latter). So this is a space for me to discuss these things, and hopefully others will join in the conversation with me. (Note to self: install comment system!)
 
 Of course mathematics is a key component in computer science, and we (I know I have) often get nervous about it. It's not as hard or as scary as we may believe &mdash; and I'll be writing more about it soon in an upcoming blog post.
 
-Naturally, having the some experience I have, I think I also have a lot to share in terms of techniques methodologies and education. So this blog is it. Watch this space, and maybe you'll learn something. I hope to learn a few things from you too. Please, join me on this journey &mdash; IMHO all of us should be continually discovering learning, unlearning, relearning, changing and adapting. There is no final "there" destination to arrive at.
+Naturally, having the some experience I have, I think I also have a lot to share in terms of techniques, methodologies and education. So this blog is it. Watch this space, and maybe you'll learn something. I hope to learn a few things from you too. Please, join me on this journey &mdash; IMHO all of us should be continually discovering, learning, unlearning, relearning, changing and adapting. There is no final "there" destination to arrive at.
 
 You can also look forward to me presenting unfinished code, and iterating it into new forms, optimising, cleaning code, etc; discussing my projects, playthings, and other stuff I am working on or interested in. (Look forward to a series of beautiful and mathematical drawings I programmed being presented soon.)
 
@@ -54,7 +54,7 @@ _"Getting to know you, getting to know all about you"_ ... thank you Julie Andre
 
 Currently, I am located in Budapest, Hungary. However, I was born in Australia and spent most of my life living in and around Sydney. My father was born here in Budapest, and around nine years ago I took out my Hungarian citizenship and moved here seven years ago.
 
-Soon, I will be hunting out a more regular gig and who know where I will actually end up. Let's see! 
+Soon, I will be hunting out a more regular gig and who knows where I will actually end up. Let's see!
 
 ## Current projects
 
@@ -81,7 +81,8 @@ Soon, I will be hunting out a more regular gig and who know where I will actuall
   - Exploring http-based application development with [Ring](https://github.com/ring-clojure/ring)
   - Playing with other awesome languages such as [Elm](http://elm-lang.org/)
   - Tutoring my young niece in maths and science
-  - Constantly reviewing and extending my practise and understanding of maths such as geometry and graph theory; and computer science
+  - Attending the monthly meetings of the [Budapest Clojure User Group](https://www.meetup.com/Budapest-Clojure-User-Group/)
+  - Constantly reviewing and extending my practise and understanding of maths such as geometry, analytics and graph theory; and computer science
     - More exciting and wonderful than you may think
     - Beauty, simplicity and art are not divorced from science and maths
 
