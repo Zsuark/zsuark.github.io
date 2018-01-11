@@ -44,7 +44,7 @@ For now, I am committing to work on my blog every week and to produce _at **leas
 
 I already have a small back-log of topics and drafts, so stick with me.
 
-[Check back here](https://zsuark.github.io/) on Thursdays at 06:00 CET (currently +1 UTC) to see what I have in store.
+[Check back here](https://zsuark.github.io/) on Thursdays at 06:30 CET (currently +1 UTC) to see what I have in store.
 
 # About Me
 
