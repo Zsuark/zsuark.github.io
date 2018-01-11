@@ -15,7 +15,7 @@ Hey &mdash; thanks for checking out my blog. My name is Raphael and I write soft
 
 First and foremost, I am writing this blog for myself. When I'm working I find myself focussed on the present moment, and I forget a lot of what I have done in the past. I really have to think about what I have achieved, and often may forget details. When you do a good job on a piece of software, you don't hear back regarding it unless the requirements change (and they don't always change that much). It is easy to lose track.
 
-A lot of my past work has remained with the workplace I created it in. I want to build a little online demonstration of what I do and how I work &mdash; For both myself and others.
+A lot of my past work has remained with the workplace I created it in. I want to build a little online demonstration of what I do and how I work &mdash; for both myself and others.
 
 So, I thought that it'd be a good idea to create this blog to track what I am currently doing, as well as sharing my ideas, views and (hopefully) foster discussions with other IT professionals.
 
