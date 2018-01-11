@@ -1,7 +1,7 @@
 ---
 layout:   default
 title:    "First Post! Awesome!"
-date:     2018-01-11 06:00:00 +0100
+date:     2018-01-11 06:30:00 +0100
 category: personal
 tags:     first-post about-me personal raphael zsuark software software-development
 ---
