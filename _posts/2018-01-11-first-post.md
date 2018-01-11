@@ -80,7 +80,7 @@ Soon, I will be hunting out a more regular gig and who knows where I will actual
   - Recently made a number of fractal images using [Quil](http://quil.info/) and Clojure/ClojureScript.
   - Exploring http-based application development with [Ring](https://github.com/ring-clojure/ring)
   - Playing with other awesome languages such as [Elm](http://elm-lang.org/)
-  - Lurking and helping where I can on the AgileVentures' [web application project for and membership management for Sveriges Hundföretagare (The Swedish Dog Industry association)](https://github.com/AgileVentures/shf-project)
+  - Attending meetings and helping where I can on the AgileVentures' [web application project for and membership management for Sveriges Hundföretagare (The Swedish Dog Industry association)](https://github.com/AgileVentures/shf-project)
   - Tutoring my young niece in maths and science
   - Attending the monthly meetings of the [Budapest Clojure User Group](https://www.meetup.com/Budapest-Clojure-User-Group/)
   - Constantly reviewing and extending my practise and understanding of maths such as geometry, analytics and graph theory; and computer science
