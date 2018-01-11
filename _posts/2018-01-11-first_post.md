@@ -1,9 +1,9 @@
 ---
 layout:   default
 title:    "First Post! Awesome!"
-date:     2018-01-11 01:00:00 +0100
+date:     2018-01-11 06:00:00 +0100
 category: personal
-tag:      first-post about-me
+tags:     first-post about-me personal raphael zsuark software software-development
 ---
 
 # First Post! Awesome! :thumbsup:
@@ -43,6 +43,8 @@ You can also look forward to me presenting unfinished code, and iterating it int
 For now, I am committing to work on my blog every week and to produce _at **least**_ one main blog post per month &mdash; but preferably one small post per week.
 
 I already have a small back-log of topics and drafts, so stick with me.
+
+[Check back here](https://zsuark.github.io/) on Thursdays at 06:00 CET (currently +1 UTC) to see what I have in store.
 
 # About Me
 
