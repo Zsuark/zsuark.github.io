@@ -12,9 +12,9 @@ This blog is a collection of my thoughts, views and activities related to comput
 
 Zsuark blogsite goal is to have a supportive and affirming environment. By commenting you are choosing to put aside any other agenda other than your interest in the presented topic. You agree to speak with polite respect.
 
-My views are my own, I do not necessarily expect you to agree with them. If you disagree with something I or someone else has written, don't tell me that I am/they are wrong - demonstrate your understanding in a polite and dignified way. Try out the ideas presented before challenging them, share what you see and understand. Show your code and maths.
+My views are my own, I do not necessarily expect you to agree with them. If you disagree with something I or someone else has written, do not say that I am/they are wrong - demonstrate your understanding in a polite and dignified way. Try out the ideas presented before challenging them, share what you see and understand. Show your code and maths.
 
-Many of us think and feel differently. Let's be dignified for ourselves by being respectful, friendly and encouraging.
+Many of us think and feel differently. Let's be dignified for ourselves by being respectful, friendly and encouraging. Be curious about what others are doing, rather than critical of their differences. If you can't say anything nice, it is better to not say anything at all. Think before you speak.
 
 The Zsuark blogsite was not created to directly earn money from advertising or sales. Please do not directly advertise or promote here. If you make reference to a resource on another site, that is fine - and the better the quality and pertinency the better. Promoting another site, not so cool. References from free-to-access sites should be used. Only when there is little to no other option redily available should references to a site protected by a paywall be made.
 
