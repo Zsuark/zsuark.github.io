@@ -16,7 +16,7 @@ My views are my own, I do not necessarily expect you to agree with them. If you 
 
 Many of us think and feel differently. Let's be dignified for ourselves by being respectful, friendly and encouraging.
 
-The Zsuark blogsite was not created to directly earn money from advertising or sales on this blogsite. Please do not directly advertise or promote here. If you make reference to a resource on another site, that is fine - and the better the quality and pertinency the better. Promoting another site, not so cool. References from free-to-access sites should be used. Only when there is little to no other option redily available should references to a site protected by a paywall be made.
+The Zsuark blogsite was not created to directly earn money from advertising or sales. Please do not directly advertise or promote here. If you make reference to a resource on another site, that is fine - and the better the quality and pertinency the better. Promoting another site, not so cool. References from free-to-access sites should be used. Only when there is little to no other option redily available should references to a site protected by a paywall be made.
 
 
 ## Example appropriate behaviour
