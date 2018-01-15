@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: post
 title:  "Mathematics! Argh!"
-date:   2018-01-04 11:00:00 +0100
+date:   2018-01-04 06:30:00 +0100
 categories: mathematics software development
 ---
 
-# [Mathematics! Argh!]()
+# Mathematics! Argh!
 ## ...but it's time to get over the fear
 
 

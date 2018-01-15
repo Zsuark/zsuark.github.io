@@ -1,5 +1,5 @@
 ---
-layout:   default
+layout:   post
 title:    "First Post! Awesome!"
 date:     2018-01-11 06:30:00 +0100
 category: personal
@@ -30,7 +30,7 @@ Take, for example terms such as:
  * _Cloud computing_ &mdash; what does it really mean? (hint: new marketing term for distributed computing)
  * _Imperative_, _Declarative_, and _Functional programming_ are frequently confused and the term _Dynamic programming_ seems to have been forgotten in these conversations.
 
- ... and I could go on, the truth of the matter is that many of these newer hot terms and topics, are actually old computer science and maths concepts being rediscovered or rebranded (primarily the latter). So this is a space for me to discuss these things, and hopefully others will join in the conversation with me. (Note to self: install comment system!)
+ ... and I could go on, the truth of the matter is that many of these newer hot terms and topics, are actually old computer science and maths concepts being rediscovered or rebranded (primarily the latter). So this is a space for me to discuss these things, and hopefully others will join in the conversation with me. ~~(Note to self: install comment system!)~~
 
 Of course mathematics is a key component in computer science, and we (I know I have) often get nervous about it. It's not as hard or as scary as we may believe &mdash; and I'll be writing more about it soon in an upcoming blog post.
 
