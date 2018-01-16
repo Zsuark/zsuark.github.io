@@ -3,7 +3,6 @@ layout:   post
 title:    "First Post! Awesome!"
 date:     2018-01-11 06:30:00 +0100
 category: personal
-comments: true
 tags:     first-post about-me personal raphael raphael-krausz zsuark software software-development
 ---
 
