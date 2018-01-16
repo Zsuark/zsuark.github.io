@@ -22,7 +22,7 @@ Please <a href="/comment-policy">the comment policy</a>. Stay on topic. Be digni
 <h1>Posts</h1>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></h2>
 <p class="author">
 	<span class="date">
 		<a href="{{ post.url }}">
