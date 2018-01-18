@@ -6,7 +6,9 @@ categories: mathematics
 tags: mathematics software development
 ---
 
-# Dedication
+# Mathematics &mdash; it is time to get over the fear!
+
+## Dedication
 
 Before I launch into this, I'd like to take a moment to dedicate this post to my year 11 and 12 high school maths teacher, Christine Joan Elder (1949 - 2016). I was saddened to learn very recently that she passed away a little over a year ago due to cancer. 
 
