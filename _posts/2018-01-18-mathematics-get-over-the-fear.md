@@ -44,7 +44,7 @@ The truth of the matter, that despite our hang-ups, is that we use maths every d
 
 Don't forget that the job of a good education is to ease the process of learning. It is far more difficult to make mathematical discoveries and proofs than what it is to learn someone else's hard work. Many articles of maths already seem easy to us, but millenia of human history have gone into them. YouTuber [Sen Zen](https://www.youtube.com/channel/UC8WtjEDy5SLJnnnY4R-LrtA) has a nice discussion on this in his video "[So You Think 2x - 4 = 12 is Easy?](https://www.youtube.com/watch?v=OehlUOx8xf8)" - he does go into algebra a little, but I hope you are getting the message I'm sending you. Don't be scared when you first see a new concept and it seems hard. Relax and practice. You'll get there, and future you will find it simpler and thank you.
 
-Whilst I greatly respect Ed, I do not like that he seems to suggest that the underlying maths is overly difficult and that you shouldn't have to worry about it too much. It does the audience a disservice.
+Whilst I greatly respect Ed Finkler, I do not like that he seems to suggest that the underlying maths is overly difficult and that you shouldn't have to worry about it too much. It does the audience a disservice.
 
 Regardless of our understanding of it, maths works. Understanding comes with time. If you know the maths well enough to use it, you already have a good base understanding.
 
