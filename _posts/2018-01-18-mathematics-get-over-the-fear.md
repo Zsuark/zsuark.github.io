@@ -95,7 +95,7 @@ My tips:
 
 It's important to be relaxed and well rested. To go fast, sometimes we need to slow down. This is a core concept in Rich Hickey's talk on [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc). We sometimes trip over our own feet rushing to get things done. Plan your day so you have enough time for everything.
 
-It is surprising how easy deadlines are to meet, when you relax and stop constantly rushing to meet them. This is not to say that there won't be extremely busy and long days, but you'll have far fewer of them and enjoy your career more whilst being more productive.
+It is surprising how easy deadlines are to meet, when you relax and stop constantly rushing to meet them. This is not to say that there won't be extremely busy and long days, but you'll have far fewer of them and will be able to enjoy your career more whilst being more productive.
 
 
 # Summary
