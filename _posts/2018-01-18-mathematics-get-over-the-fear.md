@@ -64,16 +64,16 @@ Further, maths is not all numerical and obsessed with arithmetic. Abstraction, a
 
 Who are we to disagree! The man has a point. Computer programming focuses on symbolic representation of abstract concepts (or abstractions of concrete concepts) - just as mathematics does. The same core topics computer science deals with &mdash; such as "quantity, structure, space, and change" &mdash; are the same topics mathematics already deals with.
 
-Edsger also advocated and named "Structured programming" - a paradigm that is ubiquitous to us (many of) us now. He had a lot of interesting ideas and ways of thinking about information, and was a massive influence on modern computer science. I could argue he was one of the first Agile practitioners. Either way, "[No other individual has had a larger influence on research in principles of distributed computing](http://www.podc.org/dijkstra/)".
+Edsger also advocated and named "Structured programming" - a paradigm that is ubiquitous to (many of) us now. He had a lot of interesting ideas and ways of thinking about information, and was a massive influence on modern computer science. I could argue he was one of the first Agile practitioners. Either way, "[No other individual has had a larger influence on research in principles of distributed computing](http://www.podc.org/dijkstra/)".
 
 
 ## Learn the abstraction, before the implementation
 
-One of benefits of tertiary maths and computer science education is learning the abstractions outside of their implementations in any particular language or technology. To be creative in computer science, this approach is vital! See [National Geographics' article on this](http://phenomena.nationalgeographic.com/2008/04/24/when-learning-maths-abstract-symbols-work-better-than-real-world-examples/)
+One of benefits of tertiary maths and computer science education is learning the abstractions outside of their implementations in any particular language or technology. To be creative in computer science, this approach is vital! See [National Geographics' article on this](http://phenomena.nationalgeographic.com/2008/04/24/when-learning-maths-abstract-symbols-work-better-than-real-world-examples/).
 
 If you only learn mathematical concepts within a single technology implementation &mdash; you are doing yourself an injustice. The above article makes me wonder if this is why the recently  super popular code "Bootcamps" are now failing miserable and closing down.
 
-In other words, if you want to learn to program (or other tech skill) quickly, and then to be able to apply those skills in real life situations, do not focus on the software language too much learn the underlying mathematical abstractions first. Learn about sets and set theory. Learn about general operating system concepts before or alongside your favourite operating system. Learn about trees, data structures, loops, conditionals and the computer science fundamentals before you insist that your chosen programming language is the biggest and the best and no other language is ever needed. Learn the maths and gain a greater understanding of the language you learn, it's strengths and weaknesses.
+In other words, if you want to learn to program (or other tech skill) quickly, and then to be able to apply those skills in real life situations, do not focus solely on the software language, learn the underlying mathematical abstractions. Learn about sets and set theory. Learn about general operating system concepts before or alongside your favourite operating system. Learn about trees, data structures, loops, conditionals and the computer science fundamentals before you insist that your chosen programming language is the biggest and the best and no other language is ever needed. Learn the maths and gain a greater understanding of the languages you learn, their strengths and weaknesses.
 
 
 ## Enjoy your voyage of discovery
