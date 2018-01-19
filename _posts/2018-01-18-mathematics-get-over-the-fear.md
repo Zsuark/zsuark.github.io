@@ -3,7 +3,7 @@ layout: post
 title:  "Mathematics &mdash; it is time to get over the fear!"
 date:   2018-01-18 06:30:00 +0100
 categories: mathematics
-tags: mathematics software development
+tags: ["mathematics", "computer science", "software development"]
 ---
 
 # Mathematics &mdash; it is time to get over the fear!

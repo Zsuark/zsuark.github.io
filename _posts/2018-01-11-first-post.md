@@ -3,7 +3,7 @@ layout:   post
 title:    "First Post! Awesome!"
 date:     2018-01-11 06:30:00 +0100
 category: personal
-tags:     first-post about-me personal raphael raphael-krausz zsuark software software-development
+tags:     ["first post", "about me", "personal", "Raphael", "Raphael Krausz", "Zsuark", "software", "software development"]
 ---
 
 # First Post! Awesome! :thumbsup:
