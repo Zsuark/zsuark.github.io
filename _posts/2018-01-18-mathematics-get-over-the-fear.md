@@ -16,7 +16,7 @@ She was a wonderfully intelligent, compassionate and hard-working woman. Whilst 
 
 Mrs Elder could explain mind-bending-and-melting topics clearly when teaching students of different abilities and needs, never skipping a beat. She did her best to ensure all her students' needs were accommodated, and never made you feel stupid if you made a mistake, however silly it may have been. Mrs Elder just loved the maths and teaching. She cared greatly for her students.
 
-In her private family life, she had the great task of caring for her children - including a son with cystic fibrosis. She saved the life of one of her sons by donating organs to him whilst she was alive. Mrs Elder was a true hero.
+In her private family life, she had the great task of caring for her children - including a son with cystic fibrosis. Mrs Elder was a true hero.
 
 I was a bit of a different teen and my high school years were very confusing, alienating and depressing. My 3 unit maths classes (the highest level my school offered) were a safe-haven where I could be myself whilst working out my brain. Maths and Mrs Elder never judged **me** negatively on any basis. She always focussed on bringing out the best of my ability &mdash; not my short-comings. It was the first time I really enjoyed mathematics classes in school, and I felt valued in them.
 
