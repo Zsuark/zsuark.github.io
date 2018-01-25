@@ -19,9 +19,13 @@ There will be upcoming blog posts discussing the techniques, weaknesses and how 
 
 The software itself is far from perfect &mdash; but it works. We can always streamline, optimise and rewrite code for greater clarity or to meet other goals. The fact a piece of software works is the main thing.
 
-There are ways to break the software. For example, using the quit keyboard shortcut with a sketch open. There are other problems, such as the word "Applet" appearing as the title of the sketches rather than what I specify in the code, and so forth. So not perfect, but it does the job I want it to.
+There are ways to break the software. For example, using the quit keyboard shortcut with a sketch open. There are other problems, such as the word "Applet" appearing as the title of the sketches rather than what I specify in the code, and so forth.
+
+Additionally, I have mis-labelled some of the fractal curves - I discovered some for myself via happy accidents, and I didn't know what to call them. I will be correcting this shortly.
 
 For the most part, the sketches all work within reasonable time. Some, such as the dragon curves, do take a long time to calculate and display. In a future post we will look at what we can do about this.
+
+So the software is not perfect, but it does the job I want it to.
 
 
 # Pragmatic Programming
