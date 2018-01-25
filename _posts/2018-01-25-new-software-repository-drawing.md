@@ -12,7 +12,7 @@ Just a quick blog post this week. I finished doing all the little tasks to put a
 
 Drawing is a collection of animated drawings made with Clojure and Quil. The sketches are of fractals, and miscellaneous ideas. I also used JavaFX to create a menu window as a launcher for the various sketches. I had never used JavaFX until yesterday, so I'm pleased I could even learn and translate this basic usage into Clojure. After all, Clojure is still new to me too.
 
-There will be upcoming blog posts discussing the techniques, weaknesses and how we can make things better. For example, we can talk about calculating angles, memoisation, code structure and layout, etc. So play and check out this blog next week to see what is in store.
+There will be upcoming blog posts discussing the techniques, weaknesses and how we can make things better. For example, we can talk about calculating angles, memoisation, code structure and layout, etc. So play and check out future blog posts to see what is in store.
 
 
 # Software Quality
