@@ -9,7 +9,7 @@ tags:     ["software development", "software architecture", "databases", "nosql"
 
 # Database Review
 
-This last week, I have been doing a lot of research/review and experimentation with authentication, security and databases. So, this week's blog posts are more of a "brain dump" than a proper articles.
+This last week, I have been doing a lot of research/review and experimentation with authentication, security and databases. So, this week's blog posts are more of a "brain dump" than proper articles.
 
 Just to remind you we are currently building a social media application using Clojure and Ring.
 
