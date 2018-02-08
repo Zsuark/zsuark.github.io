@@ -6,10 +6,9 @@ category: architecture
 tags:     ["software development", "software architecture", "JWT", "authentication", "security", "Clojure"]
 ---
 
-
 # Authentication and Security Review
 
-This last week, I have been doing a lot of research/review and experimentation with authentication, security and databases. So, this week's blog posts are more of a "brain dump" than a proper articles.
+This last week, I have been doing a lot of research/review and experimentation with authentication, security and databases. So, this week's blog posts are more of a "brain dump" than proper articles.
 
 Just to remind you we are currently building a social media application using Clojure and Ring.
 
@@ -33,6 +32,7 @@ The token is stored by the front-end application and allows it to securely authe
 
 Of the options above, it appears &mdash; at least for the moment &mdash; that **buddy** is a good fit for what we are trying to achieve, and has a lot of documentation and support (vendor supplied and informal blogs, etc).
 
+
 # Sample Reading list
 
 - [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
@@ -48,6 +48,7 @@ Of the options above, it appears &mdash; at least for the moment &mdash; that **
 - [SPA best practices](https://stackoverflow.com/questions/20963273/spa-best-practices-for-authentication-and-session-management)
 - [Google Mobile App Best Practises](https://developers.google.com/identity/work/saas-mobile-apps)
 
+
 # That is all...
 
-..for the moment. Except also check out the [quick review of databases that I have been doing](/architecture/2018/02/08/database-and-graph-theory-review/) this week.
+..for the moment &mdash; except also check out the [quick review of databases](/architecture/2018/02/08/database-and-graph-theory-review/) that I have been doing this week.
