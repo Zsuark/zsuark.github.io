@@ -36,6 +36,9 @@ Of the options above, it appears &mdash; at least for the moment &mdash; that **
 # Sample Reading list
 
 - [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
+- [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+- [JSWON Web Token (Wikipedia)](https://en.wikipedia.org/wiki/JSON_Web_Token)
+- [Single sign-on (Wikipedia)](https://en.wikipedia.org/wiki/Single_sign-on)
 - [Securing Clojure Microservices using buddy - Part 1: Creating Auth Tokens](http://rundis.github.io/blog/2015/buddy_auth_part1.html)
 - [Mobile API security techniques](https://www.approov.io/blog/mobile-api-security-techniques-part-2.html)
 - [Security in mobile APIs: OAuth 2.0 vs basic HTTP access authentication](https://bbvaopen4u.com/en/actualidad/security-mobile-apis-oauth-20-vs-basic-http-access-authentication)
