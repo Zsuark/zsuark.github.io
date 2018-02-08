@@ -53,8 +53,7 @@ These notes are far from complete, and don't even start to cover off on graph da
 - **Bipartite** graphs are graphs which are split into two groups (or sets). Each vertix in a set is connected to all vertices in the other set, but none in it's own. If x is the number of vertices in the first set, and y is the number of vertices in the second set - then there are x * y edges. Kxy = x * y
 - Graphs that can be drawn without overlapping edges are called **planar** graphs.
 - In a planar graph, the areas bounded by edges and vertices are called **faces**.
-- Faces + Vertices = Edges + 1
-- or _F + V = E + 1_
+- _Faces + Vertices = Edges + 1_ or _F + V = E + 1_
 
 
 # Sample Graph Theory readings
