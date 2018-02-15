@@ -31,6 +31,7 @@ Buddy's buddy-hashers password checking system appears to use password salts app
 
 OWASP recommends Argon2 the best hashing algorithm, buddy has yet to implement this. However, the choices buddy provides are robust. I would recommend further selecting the best hashing techniques buddy provides according to known information.
 
+[cryptic](https://github.com/irresponsible/cryptic) provides password hashing using Argon2, and may be easily used with buddy.
 
 # Game-plan
 
