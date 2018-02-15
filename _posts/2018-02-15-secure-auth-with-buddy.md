@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Secure Authentication with Buddy"
-date:     2018-01-11 16:00:00 +0100
+date:     2018-02-15 16:00:00 +0100
 category: personal
 tags:     ["software development", "Clojure", "buddy", "security", "authentication", "JWT"]
 ---
