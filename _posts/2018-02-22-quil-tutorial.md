@@ -167,6 +167,19 @@ Change the sketch so that:
 
 # H-Tree Fractal
 
+## Update project.clj
+
+```clojure
+(defproject quil-drawing "0.1.0-SNAPSHOT"
+  :description "A Clojure project"
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [quil "2.6.0"]
+                 [org.clojure/math.numeric-tower "0.0.4"]]
+  :main quil-drawing.h-tree)
+```
+
+## The code
+
 A space-filling line fractal
 
 ```clojure
@@ -234,7 +247,7 @@ A space-filling line fractal
   (let [target         (:target-length state)
         iteration      (:iteration     state)
         new-points-fn  (fn [acc [x y]]
-                         (concat
+                         (into
                            acc
                            (if (odd? iteration)
                              (vector 
@@ -245,7 +258,7 @@ A space-filling line fractal
                                [x (- y target)]))))
         
         old-points  (:points state)
-        new-points  (reduce new-points-fn '() old-points)
+        new-points  (reduce new-points-fn (vector) old-points)
         ]
     (assoc state :points new-points)))
 
@@ -264,12 +277,8 @@ A space-filling line fractal
   - we replace the points array with
   the new set of points
   
-  However, we can only track so many points
-  at a time before we blow the stack
-  
-  So, when we hit 2048 points we stop,
-  pause for a bit and then reset the
-  state to the initial value.
+  However, we can only see lines of 1,
+  so lets stop at that point
   "
   
   (let [length (:line-length   state)
@@ -278,27 +287,25 @@ A space-filling line fractal
       
       (update state :line-length inc)
       
-      (let [point-count (count (:points state))]
-        (if (>= point-count 2048)
+      (let [i      (:iteration state)
+            next-i (inc i)
+            width  (:width state)
+            target (maths/round
+                     (find-line-length
+                       next-i
+                       width))]
+        (if (zero? target)
           (if (zero? (:pause-frames state))
             initial-state
             (->
               (update state :pause-frames dec)
               (assoc :paused true)))
           
-          (let [i      (:iteration state)
-                next-i (inc i)
-                width  (:width state)
-                target (maths/round
-                         (find-line-length
-                           next-i
-                           width))]
-            
-            (->
-              (assoc state :iteration next-i)
-              (assoc :line-length 0)
-              (update-points)
-              (assoc :target-length target))))))))
+          (->
+            (assoc state :iteration next-i)
+            (assoc :line-length 0)
+            (update-points)
+            (assoc :target-length target)))))))
 
 
 (defn draw-state [state]
