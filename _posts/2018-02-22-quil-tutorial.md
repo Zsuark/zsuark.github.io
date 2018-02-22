@@ -106,7 +106,7 @@ Functional mode
     :size          [500 300]
     :setup         setup
     :draw          draw
-    :features      [m/fun-mode]))
+    :middleware    [m/fun-mode]))
 ```
 
 
