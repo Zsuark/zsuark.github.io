@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Inversion of Control (IoC) Design Pattern"
-date:     2018-04-01 17:00:00 +0100
+date:     2018-04-20 17:30:00 +0100
 category: patterns
 tags:     [ "design pattern", "pattern", "ioc", "inversion of control", "dependency injection", "template method", "strategy pattern", "service locator", "dependency inversion principle" ]
 ---
@@ -16,6 +16,7 @@ The pattern controls the flow of execution and calls custom code to fulfil vario
 
 Whilst Inversion of Control is a hallmark of frameworks it is not used exclusively in them, see *Template Method Pattern* below.
 
+So, when you are using an MVC or other web framework - like Ruby on Rails, Java's Spring, Play! or Python's Django - you are using an implementation of Inversion of Control.
 
 **Affects:** Flow control
 
@@ -27,8 +28,11 @@ Whilst Inversion of Control is a hallmark of frameworks it is not used exclusive
 
  In the book "[Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)" (Freeman & Freeman) Inversion of Control is referred to as the "Dependency Inversion Principle" (p. 141 in the 2009 edition, p. 139 in the 2004 first edition). I think the book prefers the term "principle" to pattern, as Inversion of Control really describes many patterns and is more a general principle than a specific pattern.
 
+# Design patterns using Inversion of Control
 
-# IoC pattern: Dependency Injection
+A number of design patterns use the Inversion of Control principle. I've outlined a couple here. In the future I may talk about them a little further. In the meantime, feel free to research them further yourself. :wink:
+
+## IoC pattern: Dependency Injection
 
 Dependency Injection is where dependencies to an object are passed to it. This may be done in a few ways, including via:
  - the object's contructor
@@ -43,7 +47,7 @@ Dependency Injection is where dependencies to an object are passed to it. This m
 
 
 
-# IoC pattern: Template Method Pattern
+## Template Method Pattern
 
 When two components operate in an overall significantly similar fashion, but the work to be performed differs, the template method is a good choice of pattern to use.
 
@@ -53,10 +57,9 @@ A good description can be found here: [Template Method Design Pattern](https://s
 
 So, you have a base or abstract class, which implements the outer steps to be taken. The derived classes then fill in their differences by implementing certain methods methods differently.
 
+## Other IOC patterns
 
-# Other IOC patterns
-
-Other Inversion of Control patterns include:
+There are many other Inversion of Control patterns, but here's a couple of examples.
 
 - Strategy Pattern
 - Service Locator Pattern
